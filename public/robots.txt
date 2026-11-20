@@ -1,0 +1,6 @@
+# MyNetPay ZW
+# While the site is on a .netlify.app address, netlify.toml also sends "noindex" so test pages stay out of Google.
+User-agent: *
+Allow: /
+
+Sitemap: https://mynetpay.co.zw/sitemap.xml

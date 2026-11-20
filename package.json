@@ -1,0 +1,12 @@
+{
+  "name": "mynetpay-zw",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MyNetPay ZW - Zimbabwe salary, PAYE and NSSA calculators (static site for Netlify)",
+  "scripts": {
+    "test": "node tests/engine.test.js",
+    "build": "node tools/build.js",
+    "check": "node tests/site-check.js"
+  },
+  "license": "UNLICENSED"
+}
