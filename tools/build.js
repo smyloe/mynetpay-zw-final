@@ -12,7 +12,7 @@ const E = require('../public/assets/js/engine.js');
 const CFG = E.CONFIG;
 
 const OUT = path.join(__dirname, '..', 'public');
-const SITE = 'https://mynetpay.co.zw';          // final production domain (used for canonical URLs)
+const SITE = 'https://mynetpayzw.netlify.app';  // current live domain (used for canonical URLs)
 const NAME = 'MyNetPay ZW';
 const TAGLINE = 'Know what actually reaches your pocket';
 const BUILD_DATE = '2026-11-18';
