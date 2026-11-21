@@ -3,4 +3,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mynetpay.co.zw/sitemap.xml
+Sitemap: https://mynetpayzw.netlify.app/sitemap.xml
